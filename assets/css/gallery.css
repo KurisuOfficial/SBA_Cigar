@@ -5,7 +5,7 @@
     right: 0;
     top: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(57, 255, 20, 0.5);
     z-index: 201;
     display: flex;
     justify-content: center;
@@ -22,8 +22,8 @@
 }
 #gallery-header {
     font-size: 26px;
-    background: #555;
-    color: #fff;
+    background: #C0C0C0;
+    color: #39FF14;
     text-align: center;
 }
 #gallery-body {
