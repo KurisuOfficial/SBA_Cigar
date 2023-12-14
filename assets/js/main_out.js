@@ -323,9 +323,9 @@
     const USE_HTTPS = 'https:' === window.location.protocol || window.location.hostname === 'localhost';
     const EMPTY_NAME = 'NO NAME BITCH';
     const QUADTREE_MAX_POINTS = 32;
-    const CELL_POINTS_MIN = 2000;
-    const CELL_POINTS_MAX = 9500;
-    const VIRUS_POINTS = 5000;
+    const CELL_POINTS_MIN = 100;
+    const CELL_POINTS_MAX = 250;
+    const VIRUS_POINTS = 1000;
     const PI_2 = Math.PI * 2;
     const SEND_254 = new Uint8Array([254, 6, 0, 0, 0]);
     const SEND_255 = new Uint8Array([255, 1, 0, 0, 0]);
