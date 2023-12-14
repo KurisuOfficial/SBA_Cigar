@@ -22,7 +22,7 @@ input[type=checkbox] {
 	margin-top: 10px;
 	background: none;
 	color: #fff;
-	border-color: #fff
+	border-color: #00FF00
 }
 
 .text-muted {
@@ -145,7 +145,7 @@ input[type=checkbox] {
 }
 
 iframe {
-	border: none;
+	border: #00FF00;
 }
 
 #nickList {
