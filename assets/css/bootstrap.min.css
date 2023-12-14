@@ -5925,17 +5925,17 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
 }
 
 .panel-primary {
-    border-color: #337ab7
+    border-color: #00FF00
 }
 
 .panel-primary>.panel-heading {
     color: #fff;
-    background-color: #337ab7;
-    border-color: #337ab7
+    background-color: #00FF00;
+    border-color: #00FF00
 }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-    border-top-color: #337ab7
+    border-top-color: #00FF00
 }
 
 .panel-primary>.panel-heading .badge {
@@ -6009,7 +6009,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
 
 .panel-warning>.panel-heading .badge {
     color: #fcf8e3;
-    background-color: #8a6d3b
+    background-color: #00FF00
 }
 
 .panel-warning>.panel-footer+.panel-collapse>.panel-body {
@@ -6017,17 +6017,17 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
 }
 
 .panel-danger {
-    border-color: #ebccd1
+    border-color: #00FF00
 }
 
 .panel-danger>.panel-heading {
     color: #a94442;
     background-color: #f2dede;
-    border-color: #ebccd1
+    border-color: #00FF00
 }
 
 .panel-danger>.panel-heading+.panel-collapse>.panel-body {
-    border-top-color: #ebccd1
+    border-top-color: #00FF00
 }
 
 .panel-danger>.panel-heading .badge {
@@ -6036,7 +6036,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
 }
 
 .panel-danger>.panel-footer+.panel-collapse>.panel-body {
-    border-bottom-color: #ebccd1
+    border-bottom-color: #00FF00
 }
 
 .embed-responsive {
