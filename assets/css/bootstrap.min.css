@@ -58,7 +58,7 @@ h1 {
 }
 
 mark {
-    color: #000;
+    color: #39FF14;
     background: #ff0
 }
 
@@ -252,11 +252,11 @@ td,th {
     }
 
     .btn>.caret,.dropup>.btn>.caret {
-        border-top-color: #000!important
+        border-top-color: #39FF14!important
     }
 
     .label {
-        border: 1px solid #000
+        border: 1px solid #39FF14
     }
 
     .table {
