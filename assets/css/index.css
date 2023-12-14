@@ -71,8 +71,8 @@ input[type=checkbox] {
 	font-family: custom-font;
 	padding: 10px;
 	text-align: center;
-	color: white;
-	text-shadow: 3px 3px 20px black, -3px -3px 20px red;;
+	color: green;
+	text-shadow: 3px 3px 20px black, -3px -3px 20px grey;;
 
 }
 
@@ -108,7 +108,7 @@ input[type=checkbox] {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	text-shadow: 1px 1px 10px black, -1px -1px 10px red;
+	text-shadow: 1px 1px 10px black, -1px -1px 10px grey;
 
 }
 
@@ -149,7 +149,7 @@ iframe {
 }
 
 #nickList {
-	color: indianred;
+	color: green;
 	border-radius: 14px;
 	background: #fff1;
 	margin-top: 10px;
